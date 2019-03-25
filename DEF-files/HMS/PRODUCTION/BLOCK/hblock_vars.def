@@ -2,14 +2,19 @@
 # Block Definitions *
 #********************
 
-block T.hms.*
-block H.cer.*
 block H.dc.*
-block H.tr.*
-block H.hod.*
-block H.cal.*
-block H.gtr.*
-block H.kin.*
-block H.rb.*
-block H.react.*
-block H.bcm.*
+block H.cer.npeSum*
+block H.hod.startime*
+block H.cal.etottracknorm*
+block H.cal.etotnorm*
+block H.cal.etot*
+block H.gtr.dp*
+block H.gtr.beta
+
+
+#block T.hms.*
+#block H.tr.*
+#block H.kin.*
+#block H.rb.*
+#block H.react.*
+#block H.bcm.*

@@ -30,14 +30,17 @@ g_ctp_calib_filename ="DBASE/HMS/GEN/calib_59deg_m1p18.param"
 1848-1860
 g_ctp_calib_filename ="DBASE/HMS/GEN/calib_59deg_m1p05.param"
 
-1862-1942
+1862-1941
 g_ctp_calib_filename ="DBASE/HMS/GEN/calib_59deg_p1p2.param"
 
-1984-2003
-g_ctp_calib_filename ="DBASE/HMS/GEN/calib_59deg_p1p2.param"
-
-1943-1983
+1942-1984
 g_ctp_calib_filename ="DBASE/HMS/GEN/calib_59deg_p1p05.param"
+
+1985-2003
+g_ctp_calib_filename ="DBASE/HMS/GEN/calib_59deg_p1p2.param"
+
+
+
 
 
 

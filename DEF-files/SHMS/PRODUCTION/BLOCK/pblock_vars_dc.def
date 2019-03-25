@@ -1,0 +1,27 @@
+#********************
+# Block Definitions *
+#********************
+
+block P.gtr.dp
+block P.gtr.beta
+block P.hod.starttime
+block P.ngcer.npeSum
+block P.hod.starttime
+block P.cal.etottracknorm
+block P.cal.etot
+block Ndata.P.dc.*.time
+block P.dc.*.dist
+block P.dc.*.nhit
+block P.dc.*.time
+block P.dc.*.nhit
+block P.dc.*.wirenum
+
+
+#block T.shms.*
+#block P.hgcer.*
+#block P.aero.*
+#block P.tr.*
+#block P.kin.*
+#block P.rb.*
+#block P.react.*
+#block P.bcm.*
