@@ -5,16 +5,16 @@
 block H.gtr.dp
 block H.gtr.beta
 block H.hod.starttime
-block H.ngcer.npeSum
+block H.cer.npeSum
 block H.hod.starttime
 block H.cal.etottracknorm
-block H.cal.etot
+block H.cal.etotnorm
 block Ndata.H.dc.*.time
 block H.dc.*.dist
 block H.dc.*.nhit
 block H.dc.*.time
-block H.dc.*.nhit
-block H.dc.*.wirenum
+#block H.dc.*.wirenum
+block H.dc.residualExclPlane*
 
 
 #block T.shms.*

@@ -24,7 +24,7 @@ void replay_production_all_shms (Int_t RunNumber = 0, Int_t MaxEvent = 0) {
   pathList.push_back("./raw/../raw.copiedtotape");
   pathList.push_back("./cache");
 
-   const char* ROOTFileNamePattern = "ROOTfiles/dc-cal/shms_replay_production_all_%d_%d.root";
+   const char* ROOTFileNamePattern = "ROOTfiles/calib_file/shms_replay_production_all_%d_%d.root";
   //const char* ROOTFileNamePattern = "ROOTfiles/test_%d_%d.root";
   
   // Load global parameters

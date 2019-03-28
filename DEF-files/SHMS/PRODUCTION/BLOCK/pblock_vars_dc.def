@@ -8,13 +8,13 @@ block P.hod.starttime
 block P.ngcer.npeSum
 block P.hod.starttime
 block P.cal.etottracknorm
-block P.cal.etot
+block P.cal.etotnorm
 block Ndata.P.dc.*.time
 block P.dc.*.dist
 block P.dc.*.nhit
 block P.dc.*.time
-block P.dc.*.nhit
-block P.dc.*.wirenum
+#block P.dc.*.wirenum
+block P.dc.residualExclPlane*
 
 
 #block T.shms.*
