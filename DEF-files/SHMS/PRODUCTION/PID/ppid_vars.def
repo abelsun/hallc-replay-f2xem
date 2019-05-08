@@ -18,3 +18,8 @@ block P.hgcer.goodAdcPulseAmp
 block P.ngcer.goodAdcPulseAmp
 block P.hgcer.goodAdcTdcDiffTime
 block P.ngcer.goodAdcTdcDiffTime
+block P.ngcer.adcErrorFlag
+
+block T.shms.pEL_LO_tdcTime
+block T.shms.pEL_HI_tdcTime
+block T.shms.pPRLO_tdcTime

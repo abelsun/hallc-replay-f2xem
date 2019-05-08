@@ -14,3 +14,7 @@ block H.cer.npe
 block H.cer.npeSum
 block H.cer.goodAdcPulseAmp
 block H.cer.goodAdcTdcDiffTime
+
+block T.hms.hEL_LO_tdcTime
+block T.hms.hEL_HI_tdcTime
+block T.hms.hPRLO_tdcTime
