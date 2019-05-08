@@ -1,0 +1,16 @@
+block T.shms.pEL_HI_tdcTime
+block P.ngcer.npeSum
+block P.ngcer.npe
+block P.cal.eprtracknorm
+block P.cal.etottracknorm
+block P.gtr.dp
+block P.gtr.y
+block P.dc.x_fp
+block P.dc.xp_fp
+block P.dc.y_fp
+block P.dc.yp_fp
+block P.dc.ntrack
+block P.ngcer.goodAdcTdcDiffTime
+block P.ngcer.adcErrorFlag
+block P.ngcer.goodAdcPulseAmp
+block P.ngcer.goodAdcPulseInt
