@@ -80,7 +80,7 @@ void fitHodoCalib(TString filename,Int_t runNUM,Bool_t cosmic_flag=kFALSE)
   TString nDiffTWCorr;
   
   TString npcal_etrkNorm = "P.cal.etracknorm";
-  TString npngcer_npeSum = "P.hgcer.npeSum";
+  TString npngcer_npeSum = "P.ngcer.npeSum";
   TString npdc_ntrack = "P.dc.ntrack";
   TString nhod_nhits = "nhits";
   TString nbeta = "P.hod.betanotrack";
